@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=teal&amp;size=20&amp;lines=ONE+STORE+JAR;" style="width: 100%;style="margin: auto;" ">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=teal&amp;size=20&amp;lines=ONE+STORE+JAR;" style="width: 100%;" style="align-items: center;" style="justify-content: center;"   style="text-align: center;">
 
 <h1 align="center">One-Store-Jar</h1>
 <h2 align="center">A Backend project providing Rest Api for online shopping application. The Api can perform all the crud operation with customer validation on every step.</h2>
